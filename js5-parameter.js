@@ -17,7 +17,7 @@ console.log(numAdd(10,20,30))
 }
 console.log(numAdd(10));  
  */
-function numAdd(...num){ 
+function numAdd(...num){   //rest 파라미터 ES6 
     console.log(num[0])
     console.log(num[1])
     console.log(num[2])

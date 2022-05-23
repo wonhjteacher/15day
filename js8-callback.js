@@ -23,6 +23,6 @@ const cal = (func , numValue) =>{
 
 console.log(cal(plus , 10) )// 12
 console.log(cal(minus , 10) )// 8
-console.log(cal(multiply , 10) )// 8
-console.log(cal(division, 10) )// 8
+console.log(cal(multiply , 10) )//20
+console.log(cal(division, 10) )// 5
 
